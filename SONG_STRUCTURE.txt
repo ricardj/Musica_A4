@@ -1,0 +1,7 @@
+Base (B) -> LA menor, SOL menor
+Pont (P)-> LA menor, SOL major, FA major, MI menor, RE menor, SOL major
+Tornada (T) -> LA menor, DO major, RE major, SOL major, LA menor
+
+Estructura:
+
+(Bx4) (Px1) (Tx2) (Nx6) (Px1) (Nx1) (Tx3) (Nx4) (Px1) (Tx4)
